@@ -104,6 +104,7 @@ FLOWS = [
     "logi_circle",
     "luftdaten",
     "mailgun",
+    "matrix",
     "melcloud",
     "met",
     "meteo_france",
